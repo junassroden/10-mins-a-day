@@ -1,0 +1,409 @@
+🟢 BASIC (1–40) – Console Fundamentals
+
+Print “Hello World”
+
+Input a name and display it
+
+Add two numbers
+
+Check even or odd
+
+Find max of two numbers
+
+Find min of three numbers
+
+Swap two numbers
+
+Convert Celsius to Fahrenheit
+
+Calculate area of a rectangle
+
+Check positive, negative, or zero
+
+Print numbers 1–10
+
+Sum of first N numbers
+
+Multiplication table
+
+Factorial of a number
+
+Check leap year
+
+Reverse a number
+
+Count digits in a number
+
+Check palindrome number
+
+Sum of digits
+
+Print Fibonacci series
+
+Check prime number
+
+Print primes between 1–100
+
+Find GCD
+
+Find LCM
+
+Power of a number
+
+Simple calculator using switch
+
+Grade system using if-else
+
+ASCII value of a character
+
+Check vowel or consonant
+
+Find largest digit in a number
+
+Count vowels in a string
+
+Reverse a string
+
+Check palindrome string
+
+Convert string to uppercase
+
+Count words in a sentence
+
+Remove whitespaces
+
+Find string length without Length property
+
+Compare two strings
+
+Replace a word in string
+
+Find duplicate characters
+
+🟡 ARRAYS & LOOPS (41–80)
+
+Input and print array
+
+Sum of array elements
+
+Find max element in array
+
+Find min element in array
+
+Count even and odd elements
+
+Reverse an array
+
+Sort array ascending
+
+Sort array descending
+
+Search element in array
+
+Copy one array to another
+
+Find duplicate elements
+
+Remove duplicate elements
+
+Merge two arrays
+
+Find common elements
+
+Left rotate array
+
+Right rotate array
+
+Find second largest element
+
+Find second smallest element
+
+Count frequency of elements
+
+Separate even and odd elements
+
+Find missing number
+
+Move zeros to end
+
+Check array palindrome
+
+Sum of diagonal elements (2D)
+
+Matrix addition
+
+Matrix subtraction
+
+Matrix multiplication
+
+Transpose matrix
+
+Identity matrix check
+
+Print lower triangle matrix
+
+Print upper triangle matrix
+
+Row-wise sum
+
+Column-wise sum
+
+Find largest row sum
+
+Find smallest column sum
+
+Sort rows of matrix
+
+Sparse matrix check
+
+Count negative elements
+
+Multiply array by scalar
+
+Zig-zag array print
+
+🟠 STRINGS & FUNCTIONS (81–120)
+
+Count character frequency
+
+Remove duplicate characters
+
+Find first non-repeating character
+
+Anagram check
+
+Find longest word
+
+Capitalize first letter of each word
+
+Reverse words in sentence
+
+String compression
+
+Count substring occurrences
+
+Check valid email
+
+Password strength checker
+
+Count special characters
+
+Remove punctuation
+
+Convert string to integer (no Convert)
+
+Convert integer to string
+
+Custom string length method
+
+Custom string compare method
+
+Custom substring method
+
+Use recursion to print numbers
+
+Recursive factorial
+
+Recursive Fibonacci
+
+Sum of array using recursion
+
+Binary search
+
+Linear search
+
+Bubble sort
+
+Selection sort
+
+Insertion sort
+
+Check balanced parentheses
+
+Stack implementation
+
+Queue implementation
+
+Count words using Dictionary
+
+Find most frequent word
+
+Remove stop words
+
+Caesar cipher
+
+Check pangram
+
+Print pattern (pyramid)
+
+Print number pattern
+
+Print star diamond
+
+Menu-driven calculator
+
+Guess the number game
+
+🔵 OOP & FILES (121–160)
+
+Create class with constructor
+
+Use encapsulation
+
+Inheritance example
+
+Method overriding
+
+Abstract class usage
+
+Interface implementation
+
+Polymorphism demo
+
+Student class CRUD (List)
+
+Employee payroll system
+
+Bank account system
+
+Library management system
+
+ATM simulation
+
+Inventory management
+
+Shopping cart system
+
+Login system
+
+File write and read
+
+Append data to file
+
+Count lines in file
+
+Search word in file
+
+Copy file content
+
+Serialize object to file
+
+Deserialize object
+
+Exception handling demo
+
+Custom exception
+
+Try-catch-finally
+
+Date difference calculator
+
+Logger system
+
+Contact management
+
+Quiz application
+
+Mini task scheduler
+
+CSV reader
+
+CSV writer
+
+File-based database
+
+JSON read/write
+
+XML read/write
+
+Encryption & decryption
+
+Configuration reader
+
+Backup system
+
+Undo/Redo simulation
+
+Command pattern demo
+
+🔴 ADVANCED (161–200)
+
+LINQ filtering
+
+LINQ grouping
+
+LINQ joins
+
+LINQ pagination
+
+LINQ search system
+
+Async method demo
+
+Task parallelism
+
+Multithreading counter
+
+Producer-consumer problem
+
+File watcher
+
+Caching system
+
+Pagination system
+
+Authentication simulation
+
+Authorization roles
+
+Password hashing
+
+Login with lockout
+
+Rate limiter
+
+Session management
+
+API-like request handler
+
+Middleware simulation
+
+Repository pattern
+
+Unit test basic
+
+Dependency injection demo
+
+MVC console pattern
+
+Plugin system
+
+Event-driven system
+
+Observer pattern
+
+Singleton pattern
+
+Factory pattern
+
+Strategy pattern
+
+Adapter pattern
+
+Decorator pattern
+
+Command pattern
+
+State pattern
+
+Template method pattern
+
+Mini ORM simulation
+
+SQL-like query engine
+
+In-memory database
+
+Version control simulation
+
+Mini POS system
